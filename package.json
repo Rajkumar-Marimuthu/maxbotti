@@ -1,0 +1,19 @@
+{
+  "name": "maxbotti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajkumar-Marimuthu/maxbotti.git"
+  },
+  "author": "Rajkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajkumar-Marimuthu/maxbotti/issues"
+  },
+  "homepage": "https://github.com/Rajkumar-Marimuthu/maxbotti#readme"
+}
